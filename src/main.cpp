@@ -16,9 +16,11 @@ int main(){
     switch (option)
     {
     case 1:
+        system("cls");
         login();
         break;
     case 2:
+        system("cls");
         Register();
         break;
     default:
