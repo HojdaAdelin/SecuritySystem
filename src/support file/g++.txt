@@ -1,0 +1,1 @@
+g++ -o Security.exe src/main.cpp src/system/login.cpp src/system/login.h src/system/register.cpp src/system/register.h
